@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a rel="me" href="https://indieweb.social/@notsidney">Follow me on Mastodon @notsidney@indieweb.social</a>
+<a rel="me" href="https://indieweb.social/@notsidney">Follow me on Mastodon `@notsidney@indieweb.social`</a>
