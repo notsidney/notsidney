@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Hi, I’m Sidney.](./GitHub%20Cover.jpg)](https://sidney.me?ref=github)
+
+[![Website: sidney.me](https://img.shields.io/badge/-sidney.me-%23dbe6f2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAACM0lEQVRIS7WVQUhUQRjHXSQyoltBloFEiW2ghw52E0RQMQkzkXQLJSpIDNGDx+joQRBFwSKSUpcwjagwIaqjHjzYQaU8LBQRKHQIzBDB33+ZB7PT2337Nhz4Mftm3vf/f/PN7LxI3j63yH/o3yS2BspgF5bgLTy3NXMxKEZgEC6nSe4J43dhW/NhDU4T8xqi8BNewggcgF5ohoMwDh25GKwSVAqf4Ar8clZRZcpUQN8K8TArOEnAd/gIl2ArTYmeMn4dJiEWxkB6yixZ2wxNm74MWm00rEGAdnJaJZT4VygJMrhjan2G/ji8MzzK4DTEXBfMwNVMBjotqrVf0+m5Bn+dyaOmPCfoldxDP4OzTLzR8kCb2gcL8Adq4QGcgkW4aBnoeCqu2vQNmnMNbPH3zOuobThZFvM8Ab+hzszZ4l8Y08q1BykGrrhe8kowx+8jEIOEY3iM5ymTeYq4a+DVXJnb4npPJaqAb3AftNmHQCXqhyL4R9w2uM3DGPyActh0slQJ4tDojHuPqn0PJMtiN28PXjDYBMNwL42Ihm+BNlroLlqHWZOcb5hnoOVpD87BWgaD0FOewYoRV3k+B6io9jqyWTXPQMeuDZ7BjTSRhxnXB6USCk2JAk08A/0rddR0kdXDBydSN6luR4lrtecDlc0L9h9NX6J20NmfhgHYgU7Q6dFdJHElkMjFQFfxKCS/RD7tFWPdYcSl4XcXtZgsL9DngzZ9Hh5nm7X9XtB1nYtmSsweuLVtGWIBiKkAAAAASUVORK5CYII=)](https://sidney.me?ref=github)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109359828185415369?color=%236364FF&domain=https%3A%2F%2Findieweb.social&logo=mastodon&logoColor=%23FFF&style=for-the-badge)](https://indieweb.social/@notsidney)
 
 <!--
 **notsidney/notsidney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a rel="me" href="https://indieweb.social/@notsidney">Follow me on Mastodon `@notsidney@indieweb.social`</a>
